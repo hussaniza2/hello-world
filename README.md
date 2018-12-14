@@ -2,3 +2,5 @@
 วิชา ITEC1307
 
 วันนี้ กำลังเรียน้วิธีการใช้งาน version controll
+
+แก้ไขใน notepath
